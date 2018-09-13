@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # rails_activeStorage
+# first_rails_project
